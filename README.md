@@ -1,9 +1,6 @@
 <br>
 <div align="center" width="100%"> 
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F77D24&background=FF8B3600&center=true&random=false&width=435&lines=Hi%2C+I'm+Soham+Ghosh">
-
-   <h3 align="center">A passionate React Developer from India</h3>
-
 </div>
 
 ![github bg](https://github.com/M2rider/M2rider/assets/129592380/a45cd79e-37a0-4593-8c2d-34eb4afb4bed)
